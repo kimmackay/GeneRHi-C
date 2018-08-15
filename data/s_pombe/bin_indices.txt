@@ -1,0 +1,5 @@
+Linear bin indices for each chromosomes (note indexing begins at 1)
+
+Chromosome 1: bin1 to bin558
+Chromosome 2: bin559 to bin1012
+Chromosome 3: bin1013 to bin1258
