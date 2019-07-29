@@ -1,6 +1,6 @@
-# SonHi-C (pronounced "sonic")
+GeneRHi-C (pronounced "generic")
 
-A set of non-procedural approaches for predicting 3D genome organization from Hi-C data
+3D GENomE Reconstruction from Hi-C data
 
 A pre-print describing this work has been published on BioRxiv (https://doi.org/10.1101/392407)
 
